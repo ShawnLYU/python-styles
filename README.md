@@ -6,7 +6,7 @@ Python Language Rules
 >摘录自：[Google Python Style Guide](https://google.github.io/styleguide/pyguide.html)
 
 
->pylint --rcfile=/Users/shawnlyu/Documents/projects/pystyle/.pylintrc untitled.py
+>pylint --rcfile=/path/to/.pylintrc run.py
 pylint --help-msg=id        
 
 导入
